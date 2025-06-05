@@ -55,8 +55,8 @@ Bu proje için yalnızca güncel bir Python kurulumu yeterlidir. Kodun arayüzü
 2. KEYWORD : koşul ve döngü (if, while)
 3. ID : Değişken adları (x, y, total)
 4. NUMBER : Sayılar (0, 5, 100)
-5. OP : Operatörler +, -, =
-6. COMPARISON :Karşılaştırma ifadeleri <, >, ==, !=
+5. OP : Operatörler (+, -, =)
+6. COMPARISON :Karşılaştırma ifadeleri (<, >, ==, !=)
 7. SEMICOLON : Satır sonu (;)
 8. BRACE : Süslü parantez ({})
 9. PAREN : Parantez (())

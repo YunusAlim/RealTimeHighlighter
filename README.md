@@ -1,6 +1,7 @@
 # Gerçek Zamanlı Söz Dizimi Vurgulayıcı
 
 Projede, gerçek zamanlı söz dizimi vurgulama özelliğine sahip bir metin editörü uygulaması yapılmıştır. Proje python dilinde yazılmıştır. Vurgulayıcı, GUI üzerinde token’ları renklendirir, hataları anında bildirir. Bunu karakter karakter analiz eder. Her ne kadar aynı projeyi java dilinde oluşturmak isteyip sonuna kadar java dilinde devam etsem de belki java dilinde olan teknik yetersizliğim belki de java dilinde, istediğim vurgulayıcıyı oluşturmanın gerçekten python'a göre çok daha zor oluşu sebebiyle projeyi tamamlayamadım. Python dilinde java dilinde geldiğiim yere çok daha çabuk gelmemin dışında proje dosyasını okuduğumda aklımda canlanan projeyi oluşturabildim.
+Tanıtım Videosu: https://www.youtube.com/watch?v=wBx1jKcJEVM&t=9s
 
 
 ## Özellikler
